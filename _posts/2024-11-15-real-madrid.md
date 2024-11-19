@@ -2,6 +2,7 @@
 layout: home
 title: "Real Madrid"
 categories: Real Madrid
+image: real-madrid.jpg
 ---
 # Real Madrid Club de Fútbol
 
